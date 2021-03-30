@@ -1,4 +1,7 @@
-package labproject7.persons;
+/**
+ * Tests the Person Superclass
+ */
+package labproject7.persons; 
 
 public class TestPerson {
 	public static void main(String[] args)

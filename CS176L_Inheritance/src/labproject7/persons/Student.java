@@ -1,5 +1,5 @@
 /**
- * Subclass of Person
+ * Subclass of Person 
  * Sets student year
  */
 package labproject7.persons;

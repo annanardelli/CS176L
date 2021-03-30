@@ -1,5 +1,5 @@
 /**
- * Superclass
+ * Superclass 
  * Sets the name of each person
  * @author AnnaNardelli
  *

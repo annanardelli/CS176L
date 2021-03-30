@@ -1,5 +1,5 @@
 /**
- * Subclass of Employee
+ * Subclass of Employee 
  * Sets faculty rank
  */
 package labproject7.persons;

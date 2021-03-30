@@ -1,7 +1,7 @@
 /**
  * Subclass of Person
- * Sets employee office and salary
- */
+ * Sets employee office and salary    
+ */ 
 package labproject7.persons;
 
 public class Employee extends Person {

@@ -1,5 +1,5 @@
 /**
- * Subclass of Employee
+ * Subclass of Employee 
  * Sets staff title
  */
 package labproject7.persons;
